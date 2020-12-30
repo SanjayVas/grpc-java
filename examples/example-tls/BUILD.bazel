@@ -34,6 +34,7 @@ java_library(
         "@io_grpc_grpc_java//protobuf",
         "@io_grpc_grpc_java//stub",
         "@maven//:io_netty_netty_handler",
+        "@maven//:org_bouncycastle_bcprov_jdk15on",
     ],
 )
 
